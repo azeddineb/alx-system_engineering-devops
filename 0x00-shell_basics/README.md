@@ -1,1 +1,1 @@
-chell dir
+shell bsics
