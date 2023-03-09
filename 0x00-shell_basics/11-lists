@@ -1,7 +1,2 @@
 #!/bin/bash
-echo "current directory"
-ls -al 
-echo "previous directory"
-ls -al ../
-echo "boot directory"
-ls -al /boot
+ls -al . .. /boot
