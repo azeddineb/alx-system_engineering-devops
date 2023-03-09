@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -nrnv *.html ../
+cp --update --recursive --no-clobber --verbose --include='*.html' ./ ../
