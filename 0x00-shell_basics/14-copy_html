@@ -1,2 +1,2 @@
 #!/bin/bash
-cp --update --recursive --no-clobber --verbose --include='*.html' ./ ../
+cp -nu *.html ../
