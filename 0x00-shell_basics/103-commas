@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1Apva | awk '{printf "%s,", $0}' | sed 's/,$/\n/'
+ls -amvp
