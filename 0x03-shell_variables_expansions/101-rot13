@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "text to encode" | tr 'a-zA-Z' 'n-za-mN-ZA-M'
+echo "grkg gb rapbqr" | tr 'a-zA-Z' 'n-za-mN-ZA-M'
