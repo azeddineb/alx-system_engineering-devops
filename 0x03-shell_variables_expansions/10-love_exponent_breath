@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($BRATH^$LOVE))
+RESULT=$(echo "$BREATH^$LOVE" | bc); echo "$RESULT"
